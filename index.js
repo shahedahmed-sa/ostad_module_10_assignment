@@ -43,4 +43,13 @@ function capitalizeFirstLetter(str) {
     return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
+//Examples
 
+console.log(calculateSum(3, 4)); //task-1
+console.log(isEven(4)); //task-2
+console.log(findMax([1, 2, 3, 4, 5])); //task-3
+console.log(reverseString("hello")); //task-4
+console.log(filterOddNumbers([1, 2, 3, 4, 5])); //task-5
+console.log(sumArray([1, 2, 3, 4, 5])); //task-6
+console.log(sortArray([5, 3, 8, 1, 2])); //task-7
+console.log(capitalizeFirstLetter("hello")); //task-8
